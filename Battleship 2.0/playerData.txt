@@ -1,0 +1,768 @@
+Player 1
+Carrier Location: j15 k15 l15 m15 n15 
+Battleship Location: k8 l8 m8 n8 
+Submarine Location: a3 b3 c3 
+Destroyer Location: j11 k11 l11 
+Patrol Boat Location: a12 a13 
+Bomb Locations: c9 f9 m1 
+
+Player 2
+Carrier Location: o12 n12 m12 l12 k12 
+Battleship Location: g11 h11 i11 j11 
+Submarine Location: l1 k1 j1 
+Destroyer Location: o7 n7 m7 
+Patrol Boat Location: d6 d5 
+Bomb Locations: i10 a12 o9 
+
+Player 3
+Carrier Location: m14 m13 m12 m11 m10 
+Battleship Location: k14 j14 i14 h14 
+Submarine Location: k10 k11 k12 
+Destroyer Location: o14 o13 o12 
+Patrol Boat Location: b7 a7 
+Bomb Locations: d1 f9 o5 
+
+Player 1
+Carrier Location: h5 h4 h3 h2 h1 
+Battleship Location: e2 d2 c2 b2 
+Submarine Location: h14 h13 h12 
+Destroyer Location: a9 b9 c9 
+Patrol Boat Location: k8 k9 
+Bomb Locations: a11 l6 c8 
+
+Player 2
+Carrier Location: o11 o12 o13 o14 o15 
+Battleship Location: h2 h3 h4 h5 
+Submarine Location: f3 f2 f1 
+Destroyer Location: e12 f12 g12 
+Patrol Boat Location: g5 g6 
+Bomb Locations: e4 j11 n5 
+
+Player 3
+Carrier Location: m2 m3 m4 m5 m6 
+Battleship Location: c11 c12 c13 c14 
+Submarine Location: i4 i3 i2 
+Destroyer Location: l4 k4 j4 
+Patrol Boat Location: o14 o13 
+Bomb Locations: o10 f1 i7 
+
+Player 4
+Carrier Location: h10 h11 h12 h13 h14 
+Battleship Location: i2 h2 g2 f2 
+Submarine Location: a1 b1 c1 
+Destroyer Location: l14 k14 j14 
+Patrol Boat Location: i15 h15 
+Bomb Locations: f14 i3 i10 
+
+Player 1
+Carrier Location: l4 k4 j4 i4 h4 
+Battleship Location: b2 c2 d2 e2 
+Submarine Location: f12 f11 f10 
+Destroyer Location: l12 m12 n12 
+Patrol Boat Location: j11 k11 
+Bomb Locations: c12 n11 b10 
+
+Player 2
+Carrier Location: h8 i8 j8 k8 l8 
+Battleship Location: e11 e10 e9 e8 
+Submarine Location: a11 a12 a13 
+Destroyer Location: e13 e14 e15 
+Patrol Boat Location: n10 o10 
+Bomb Locations: g11 n8 k15 
+
+Player 3
+Carrier Location: a1 a2 a3 a4 a5 
+Battleship Location: n10 n11 n12 n13 
+Submarine Location: j3 j2 j1 
+Destroyer Location: d13 c13 b13 
+Patrol Boat Location: i9 j9 
+Bomb Locations: d5 e1 o15 
+
+Player 4
+Carrier Location: b4 c4 d4 e4 f4 
+Battleship Location: d2 e2 f2 g2 
+Submarine Location: l11 l12 l13 
+Destroyer Location: k10 k11 k12 
+Patrol Boat Location: m6 m7 
+Bomb Locations: g10 a11 m1 
+
+Player 1
+Carrier Location: h11 h10 h9 h8 h7 
+Battleship Location: f6 f5 f4 f3 
+Submarine Location: m4 n4 o4 
+Destroyer Location: d10 d9 d8 
+Patrol Boat Location: f10 f9 
+Bomb Locations: g15 h14 c11 
+
+Player 2
+Carrier Location: d11 d12 d13 d14 d15 
+Battleship Location: e2 e3 e4 e5 
+Submarine Location: i12 j12 k12 
+Destroyer Location: n13 m13 l13 
+Patrol Boat Location: b9 c9 
+Bomb Locations: f6 b11 j13 
+
+Player 3
+Carrier Location: k8 j8 i8 h8 g8 
+Battleship Location: f13 e13 d13 c13 
+Submarine Location: m1 m2 m3 
+Destroyer Location: h3 h2 h1 
+Patrol Boat Location: o10 o11 
+Bomb Locations: a1 h13 n12 
+
+Player 4
+Carrier Location: e15 f15 g15 h15 i15 
+Battleship Location: a1 a2 a3 a4 
+Submarine Location: f5 f4 f3 
+Destroyer Location: h6 i6 j6 
+Patrol Boat Location: h2 g2 
+Bomb Locations: n2 e3 f1 
+
+Player 1
+Carrier Location: k5 l5 m5 n5 o5 
+Battleship Location: m9 m10 m11 m12 
+Submarine Location: j13 j12 j11 
+Destroyer Location: j4 k4 l4 
+Patrol Boat Location: c8 d8 
+Bomb Locations: j2 m7 j14 
+
+Player 2
+Carrier Location: e5 e4 e3 e2 e1 
+Battleship Location: m9 m8 m7 m6 
+Submarine Location: a7 a6 a5 
+Destroyer Location: f15 g15 h15 
+Patrol Boat Location: h10 h9 
+Bomb Locations: b8 m14 k13 
+
+Player 3
+Carrier Location: e14 e13 e12 e11 e10 
+Battleship Location: j9 k9 l9 m9 
+Submarine Location: n12 n11 n10 
+Destroyer Location: m15 n15 o15 
+Patrol Boat Location: a10 a11 
+Bomb Locations: g14 i7 m11 
+
+Player 1
+Carrier Location: n5 m5 l5 k5 j5 
+Battleship Location: h14 h13 h12 h11 
+Submarine Location: g7 h7 i7 
+Destroyer Location: i2 i3 i4 
+Patrol Boat Location: d15 c15 
+Bomb Locations: j12 o2 g9 
+
+Player 2
+Carrier Location: h15 g15 f15 e15 d15 
+Battleship Location: n1 m1 l1 k1 
+Submarine Location: i2 j2 k2 
+Destroyer Location: j12 i12 h12 
+Patrol Boat Location: c12 b12 
+Bomb Locations: o3 o5 g6 
+
+Player 3
+Carrier Location: b5 c5 d5 e5 f5 
+Battleship Location: e9 f9 g9 h9 
+Submarine Location: f10 g10 h10 
+Destroyer Location: b7 c7 d7 
+Patrol Boat Location: b8 b9 
+Bomb Locations: m3 o7 n10 
+
+Player 4
+Carrier Location: a13 a12 a11 a10 a9 
+Battleship Location: m14 l14 k14 j14 
+Submarine Location: e9 e8 e7 
+Destroyer Location: l13 l12 l11 
+Patrol Boat Location: f10 f11 
+Bomb Locations: f3 o14 e15 
+
+Player 1
+Carrier Location: c13 c12 c11 c10 c9 
+Battleship Location: k12 k11 k10 k9 
+Submarine Location: j2 k2 l2 
+Destroyer Location: g9 g10 g11 
+Patrol Boat Location: e4 e3 
+Bomb Locations: f10 a7 d11 
+
+Player 2
+Carrier Location: e11 e12 e13 e14 e15 
+Battleship Location: b3 b4 b5 b6 
+Submarine Location: i14 i13 i12 
+Destroyer Location: n14 m14 l14 
+Patrol Boat Location: c7 b7 
+Bomb Locations: c15 o2 a2 
+
+Player 3
+Carrier Location: e9 e8 e7 e6 e5 
+Battleship Location: n13 m13 l13 k13 
+Submarine Location: i6 i7 i8 
+Destroyer Location: g14 h14 i14 
+Patrol Boat Location: a1 b1 
+Bomb Locations: j10 b12 f11 
+
+Player 4
+Carrier Location: b12 c12 d12 e12 f12 
+Battleship Location: k11 k10 k9 k8 
+Submarine Location: c4 b4 a4 
+Destroyer Location: d7 d6 d5 
+Patrol Boat Location: i2 h2 
+Bomb Locations: h14 n6 c11 
+
+Player 1
+Carrier Location: m3 m4 m5 m6 m7 
+Battleship Location: i15 h15 g15 f15 
+Submarine Location: o15 o14 o13 
+Destroyer Location: j12 j13 j14 
+Patrol Boat Location: g3 h3 
+Bomb Locations: i12 j8 n15 
+
+Player 2
+Carrier Location: e2 f2 g2 h2 i2 
+Battleship Location: b9 b8 b7 b6 
+Submarine Location: c9 d9 e9 
+Destroyer Location: k15 j15 i15 
+Patrol Boat Location: e4 e3 
+Bomb Locations: n13 i9 j12 
+
+Player 3
+Carrier Location: h10 h11 h12 h13 h14 
+Battleship Location: n15 n14 n13 n12 
+Submarine Location: a14 b14 c14 
+Destroyer Location: n1 m1 l1 
+Patrol Boat Location: k2 k3 
+Bomb Locations: g13 c8 n6 
+
+Player 4
+Carrier Location: a13 b13 c13 d13 e13 
+Battleship Location: o6 n6 m6 l6 
+Submarine Location: d4 d5 d6 
+Destroyer Location: e15 f15 g15 
+Patrol Boat Location: n2 m2 
+Bomb Locations: k11 g13 g14 
+
+Player 1
+Carrier Location: g6 g7 g8 g9 g10 
+Battleship Location: k5 l5 m5 n5 
+Submarine Location: c3 b3 a3 
+Destroyer Location: d13 d12 d11 
+Patrol Boat Location: i2 j2 
+Bomb Locations: f2 m12 e15 
+
+Player 2
+Carrier Location: k13 l13 m13 n13 o13 
+Battleship Location: m2 m3 m4 m5 
+Submarine Location: n3 n2 n1 
+Destroyer Location: k3 k2 k1 
+Patrol Boat Location: j11 k11 
+Bomb Locations: l3 d9 h1 
+
+Player 3
+Carrier Location: f7 g7 h7 i7 j7 
+Battleship Location: n1 m1 l1 k1 
+Submarine Location: b3 b4 b5 
+Destroyer Location: o13 o14 o15 
+Patrol Boat Location: h1 i1 
+Bomb Locations: h8 k7 j5 
+
+Player 4
+Carrier Location: e13 d13 c13 b13 a13 
+Battleship Location: o13 n13 m13 l13 
+Submarine Location: m14 l14 k14 
+Destroyer Location: o10 n10 m10 
+Patrol Boat Location: c8 c9 
+Bomb Locations: d8 b3 b7 
+
+Player 1
+Carrier Location: m12 m11 m10 m9 m8 
+Battleship Location: h9 g9 f9 e9 
+Submarine Location: f4 f5 f6 
+Destroyer Location: c2 c3 c4 
+Patrol Boat Location: j4 j3 
+Bomb Locations: j9 m13 k11 
+
+Player 2
+Carrier Location: h15 g15 f15 e15 d15 
+Battleship Location: l1 m1 n1 o1 
+Submarine Location: l12 k12 j12 
+Destroyer Location: a7 b7 c7 
+Patrol Boat Location: i14 j14 
+Bomb Locations: n6 e13 d6 
+
+Player 3
+Carrier Location: b7 b6 b5 b4 b3 
+Battleship Location: e8 d8 c8 b8 
+Submarine Location: j10 i10 h10 
+Destroyer Location: d12 d13 d14 
+Patrol Boat Location: a11 a12 
+Bomb Locations: m15 i13 n9 
+
+Player 4
+Carrier Location: n3 m3 l3 k3 j3 
+Battleship Location: l1 k1 j1 i1 
+Submarine Location: f11 f10 f9 
+Destroyer Location: f1 e1 d1 
+Patrol Boat Location: d13 c13 
+Bomb Locations: h2 d6 h13 
+
+Player 5
+Carrier Location: e3 f3 g3 h3 i3 
+Battleship Location: h8 h9 h10 h11 
+Submarine Location: g4 f4 e4 
+Destroyer Location: h7 g7 f7 
+Patrol Boat Location: h1 g1 
+Bomb Locations: f14 g10 n2 
+
+Player 1
+Carrier Location: h13 g13 f13 e13 d13 
+Battleship Location: m2 l2 k2 j2 
+Submarine Location: h6 h5 h4 
+Destroyer Location: j7 i7 h7 
+Patrol Boat Location: j3 j4 
+Bomb Locations: l8 m11 h1 
+
+Player 2
+Carrier Location: j6 j5 j4 j3 j2 
+Battleship Location: g7 g8 g9 g10 
+Submarine Location: l12 l13 l14 
+Destroyer Location: i6 i5 i4 
+Patrol Boat Location: i11 i12 
+Bomb Locations: n9 o13 c1 
+
+Player 3
+Carrier Location: e8 e7 e6 e5 e4 
+Battleship Location: n15 m15 l15 k15 
+Submarine Location: j12 j11 j10 
+Destroyer Location: b12 b13 b14 
+Patrol Boat Location: g12 f12 
+Bomb Locations: k2 m13 f6 
+
+Player 4
+Carrier Location: d3 e3 f3 g3 h3 
+Battleship Location: c4 c5 c6 c7 
+Submarine Location: g1 h1 i1 
+Destroyer Location: g12 f12 e12 
+Patrol Boat Location: j2 i2 
+Bomb Locations: f5 a12 o11 
+
+Player 5
+Carrier Location: e8 d8 c8 b8 a8 
+Battleship Location: l13 l12 l11 l10 
+Submarine Location: h11 h10 h9 
+Destroyer Location: l15 k15 j15 
+Patrol Boat Location: b14 c14 
+Bomb Locations: o4 d12 e3 
+
+Player 1
+Carrier Location: j5 j6 j7 j8 j9 
+Battleship Location: i1 h1 g1 f1 
+Submarine Location: f9 g9 h9 
+Destroyer Location: d2 e2 f2 
+Patrol Boat Location: o15 n15 
+Bomb Locations: a5 f11 a15 
+
+Player 2
+Carrier Location: j13 j12 j11 j10 j9 
+Battleship Location: d2 d3 d4 d5 
+Submarine Location: f13 e13 d13 
+Destroyer Location: n4 n3 n2 
+Patrol Boat Location: l14 m14 
+Bomb Locations: c8 l9 l6 
+
+Player 3
+Carrier Location: l6 l7 l8 l9 l10 
+Battleship Location: g13 f13 e13 d13 
+Submarine Location: h5 h6 h7 
+Destroyer Location: n13 n12 n11 
+Patrol Boat Location: i9 h9 
+Bomb Locations: d11 f7 a6 
+
+Player 4
+Carrier Location: b3 c3 d3 e3 f3 
+Battleship Location: o12 o13 o14 o15 
+Submarine Location: k5 j5 i5 
+Destroyer Location: k13 l13 m13 
+Patrol Boat Location: a11 b11 
+Bomb Locations: k6 h12 f2 
+
+Player 5
+Carrier Location: m10 l10 k10 j10 i10 
+Battleship Location: c14 c13 c12 c11 
+Submarine Location: g4 g5 g6 
+Destroyer Location: n4 n5 n6 
+Patrol Boat Location: g14 h14 
+Bomb Locations: i12 e3 d9 
+
+Player 1
+Carrier Location: g6 f6 e6 d6 c6 
+Battleship Location: d11 c11 b11 a11 
+Submarine Location: b12 b13 b14 
+Destroyer Location: f4 e4 d4 
+Patrol Boat Location: e15 e14 
+Bomb Locations: j10 d5 c12 
+
+Player 2
+Carrier Location: a3 b3 c3 d3 e3 
+Battleship Location: i6 i7 i8 i9 
+Submarine Location: h12 h11 h10 
+Destroyer Location: e7 e6 e5 
+Patrol Boat Location: l4 k4 
+Bomb Locations: m2 h2 k3 
+
+Player 3
+Carrier Location: l2 k2 j2 i2 h2 
+Battleship Location: a3 a4 a5 a6 
+Submarine Location: m7 m8 m9 
+Destroyer Location: j9 j8 j7 
+Patrol Boat Location: a1 b1 
+Bomb Locations: j1 f7 i14 
+
+Player 4
+Carrier Location: n9 n8 n7 n6 n5 
+Battleship Location: d13 d12 d11 d10 
+Submarine Location: i11 i10 i9 
+Destroyer Location: k14 l14 m14 
+Patrol Boat Location: l10 k10 
+Bomb Locations: b7 m9 h3 
+
+Player 1
+Carrier Location: c13 c12 c11 c10 c9 
+Battleship Location: m5 m6 m7 m8 
+Submarine Location: d13 d12 d11 
+Destroyer Location: f3 f2 f1 
+Patrol Boat Location: f11 f12 
+Bomb Locations: b5 i3 o15 
+
+Player 2
+Carrier Location: g12 f12 e12 d12 c12 
+Battleship Location: o2 n2 m2 l2 
+Submarine Location: m3 n3 o3 
+Destroyer Location: m10 l10 k10 
+Patrol Boat Location: n5 n6 
+Bomb Locations: c2 h15 o1 
+
+Player 3
+Carrier Location: n5 m5 l5 k5 j5 
+Battleship Location: d10 d11 d12 d13 
+Submarine Location: f9 f10 f11 
+Destroyer Location: i13 i12 i11 
+Patrol Boat Location: n15 o15 
+Bomb Locations: l11 i7 o14 
+
+Player 4
+Carrier Location: j15 j14 j13 j12 j11 
+Battleship Location: m14 m13 m12 m11 
+Submarine Location: a4 a3 a2 
+Destroyer Location: l3 l2 l1 
+Patrol Boat Location: m2 n2 
+Bomb Locations: m3 c5 d2 
+
+Player 5
+Carrier Location: i11 h11 g11 f11 e11 
+Battleship Location: d1 c1 b1 a1 
+Submarine Location: n12 m12 l12 
+Destroyer Location: d3 e3 f3 
+Patrol Boat Location: m2 l2 
+Bomb Locations: o14 b3 b8 
+
+Player 1
+Carrier Location: a11 b11 c11 d11 e11 
+Battleship Location: j3 k3 l3 m3 
+Submarine Location: k10 k11 k12 
+Destroyer Location: k5 k6 k7 
+Patrol Boat Location: o14 o15 
+Bomb Locations: l4 g15 o6 
+
+Player 2
+Carrier Location: l2 k2 j2 i2 h2 
+Battleship Location: k12 j12 i12 h12 
+Submarine Location: i13 i14 i15 
+Destroyer Location: d3 d2 d1 
+Patrol Boat Location: h7 i7 
+Bomb Locations: g2 m1 f2 
+
+Player 3
+Carrier Location: c7 c6 c5 c4 c3 
+Battleship Location: j9 j8 j7 j6 
+Submarine Location: a4 a5 a6 
+Destroyer Location: l5 l4 l3 
+Patrol Boat Location: f5 g5 
+Bomb Locations: d4 m9 a15 
+
+Player 4
+Carrier Location: g6 f6 e6 d6 c6 
+Battleship Location: e10 f10 g10 h10 
+Submarine Location: c4 c3 c2 
+Destroyer Location: o10 n10 m10 
+Patrol Boat Location: g1 f1 
+Bomb Locations: d5 f11 k10 
+
+Player 5
+Carrier Location: k3 l3 m3 n3 o3 
+Battleship Location: k6 j6 i6 h6 
+Submarine Location: b7 b6 b5 
+Destroyer Location: a9 a8 a7 
+Patrol Boat Location: j8 j7 
+Bomb Locations: f12 o6 o1 
+
+Player 1
+Carrier Location: f3 f4 f5 f6 f7 
+Battleship Location: m13 m12 m11 m10 
+Submarine Location: e2 f2 g2 
+Destroyer Location: o5 n5 m5 
+Patrol Boat Location: b1 c1 
+Bomb Locations: l12 l2 f11 
+
+Player 2
+Carrier Location: k4 l4 m4 n4 o4 
+Battleship Location: b4 b5 b6 b7 
+Submarine Location: h12 h11 h10 
+Destroyer Location: k9 l9 m9 
+Patrol Boat Location: b14 b15 
+Bomb Locations: d6 e6 n8 
+
+Player 3
+Carrier Location: g12 h12 i12 j12 k12 
+Battleship Location: o4 o3 o2 o1 
+Submarine Location: d3 e3 f3 
+Destroyer Location: g10 h10 i10 
+Patrol Boat Location: c9 d9 
+Bomb Locations: n2 b1 a3 
+
+Player 4
+Carrier Location: k11 k12 k13 k14 k15 
+Battleship Location: l10 l11 l12 l13 
+Submarine Location: j5 k5 l5 
+Destroyer Location: n1 n2 n3 
+Patrol Boat Location: i14 i13 
+Bomb Locations: g9 h5 a15 
+
+Player 5
+Carrier Location: l8 k8 j8 i8 h8 
+Battleship Location: h10 i10 j10 k10 
+Submarine Location: g12 h12 i12 
+Destroyer Location: l7 k7 j7 
+Patrol Boat Location: f3 g3 
+Bomb Locations: a3 a2 m7 
+
+Player 1
+Carrier Location: j14 k14 l14 m14 n14 
+Battleship Location: e12 e13 e14 e15 
+Submarine Location: g2 f2 e2 
+Destroyer Location: a1 a2 a3 
+Patrol Boat Location: k11 j11 
+Bomb Locations: i15 i12 k1 
+
+Player 2
+Carrier Location: d5 e5 f5 g5 h5 
+Battleship Location: d3 e3 f3 g3 
+Submarine Location: j10 i10 h10 
+Destroyer Location: m3 l3 k3 
+Patrol Boat Location: o5 n5 
+Bomb Locations: c1 n9 l13 
+
+Player 3
+Carrier Location: i15 h15 g15 f15 e15 
+Battleship Location: j2 j3 j4 j5 
+Submarine Location: b13 c13 d13 
+Destroyer Location: b15 c15 d15 
+Patrol Boat Location: h11 h10 
+Bomb Locations: n14 k1 e13 
+
+Player 4
+Carrier Location: o11 n11 m11 l11 k11 
+Battleship Location: m15 m14 m13 m12 
+Submarine Location: k7 j7 i7 
+Destroyer Location: g5 f5 e5 
+Patrol Boat Location: e7 d7 
+Bomb Locations: a13 m2 e14 
+
+Player 5
+Carrier Location: f11 f12 f13 f14 f15 
+Battleship Location: k12 k11 k10 k9 
+Submarine Location: n15 m15 l15 
+Destroyer Location: e2 e3 e4 
+Patrol Boat Location: a13 a14 
+Bomb Locations: i13 h12 k7 
+
+Player 1
+Carrier Location: f15 e15 d15 c15 b15 
+Battleship Location: d4 d5 d6 d7 
+Submarine Location: o1 o2 o3 
+Destroyer Location: a13 a14 a15 
+Patrol Boat Location: h7 i7 
+Bomb Locations: n14 h2 h15 
+
+Player 2
+Carrier Location: m1 l1 k1 j1 i1 
+Battleship Location: d9 c9 b9 a9 
+Submarine Location: g4 g3 g2 
+Destroyer Location: f12 g12 h12 
+Patrol Boat Location: i8 j8 
+Bomb Locations: f15 d6 c15 
+
+Player 3
+Carrier Location: c8 c7 c6 c5 c4 
+Battleship Location: j5 j4 j3 j2 
+Submarine Location: j7 k7 l7 
+Destroyer Location: m4 n4 o4 
+Patrol Boat Location: a15 a14 
+Bomb Locations: m15 c9 n13 
+
+Player 4
+Carrier Location: d14 e14 f14 g14 h14 
+Battleship Location: n9 n10 n11 n12 
+Submarine Location: k2 l2 m2 
+Destroyer Location: d12 e12 f12 
+Patrol Boat Location: n3 m3 
+Bomb Locations: i9 h6 j4 
+
+Player 1
+Carrier Location: h5 g5 f5 e5 d5 
+Battleship Location: n13 m13 l13 k13 
+Submarine Location: a13 a12 a11 
+Destroyer Location: b4 c4 d4 
+Patrol Boat Location: b6 b5 
+Bomb Locations: m11 k3 i11 
+
+Player 2
+Carrier Location: e11 e12 e13 e14 e15 
+Battleship Location: o7 o6 o5 o4 
+Submarine Location: i9 i8 i7 
+Destroyer Location: k10 j10 i10 
+Patrol Boat Location: h14 i14 
+Bomb Locations: n12 k2 o11 
+
+Player 3
+Carrier Location: j4 j5 j6 j7 j8 
+Battleship Location: a5 a4 a3 a2 
+Submarine Location: f1 e1 d1 
+Destroyer Location: n8 m8 l8 
+Patrol Boat Location: l12 k12 
+Bomb Locations: e3 i5 c8 
+
+Player 4
+Carrier Location: m9 m10 m11 m12 m13 
+Battleship Location: k14 k13 k12 k11 
+Submarine Location: c1 b1 a1 
+Destroyer Location: l6 l5 l4 
+Patrol Boat Location: d10 d11 
+Bomb Locations: g3 a4 j7 
+
+Player 5
+Carrier Location: e11 e12 e13 e14 e15 
+Battleship Location: h4 i4 j4 k4 
+Submarine Location: g14 h14 i14 
+Destroyer Location: j3 k3 l3 
+Patrol Boat Location: d9 d8 
+Bomb Locations: b12 b7 l8 
+
+Player 1
+Carrier Location: f3 g3 h3 i3 j3 
+Battleship Location: d1 c1 b1 a1 
+Submarine Location: e2 f2 g2 
+Destroyer Location: a9 a8 a7 
+Patrol Boat Location: e1 f1 
+Bomb Locations: n7 h5 j6 
+
+Player 2
+Carrier Location: f3 e3 d3 c3 b3 
+Battleship Location: h11 h10 h9 h8 
+Submarine Location: l1 l2 l3 
+Destroyer Location: b11 c11 d11 
+Patrol Boat Location: n13 o13 
+Bomb Locations: k4 k2 g12 
+
+Player 3
+Carrier Location: o10 o9 o8 o7 o6 
+Battleship Location: m3 l3 k3 j3 
+Submarine Location: n1 m1 l1 
+Destroyer Location: i4 i3 i2 
+Patrol Boat Location: f10 f11 
+Bomb Locations: m2 c14 c10 
+
+Player 4
+Carrier Location: f5 g5 h5 i5 j5 
+Battleship Location: j1 k1 l1 m1 
+Submarine Location: o3 o2 o1 
+Destroyer Location: b14 b13 b12 
+Patrol Boat Location: m3 m4 
+Bomb Locations: d1 d9 k6 
+
+Player 5
+Carrier Location: m10 m9 m8 m7 m6 
+Battleship Location: d13 e13 f13 g13 
+Submarine Location: l4 l5 l6 
+Destroyer Location: h3 g3 f3 
+Patrol Boat Location: m4 m3 
+Bomb Locations: d4 n14 i6 
+
+Player 1
+Carrier Location: l4 l5 l6 l7 l8 
+Battleship Location: c7 c8 c9 c10 
+Submarine Location: o8 o9 o10 
+Destroyer Location: f13 f14 f15 
+Patrol Boat Location: i15 i14 
+Bomb Locations: e1 b15 l11 
+
+Player 2
+Carrier Location: a6 a7 a8 a9 a10 
+Battleship Location: c3 c4 c5 c6 
+Submarine Location: a15 b15 c15 
+Destroyer Location: a5 a4 a3 
+Patrol Boat Location: f12 g12 
+Bomb Locations: i5 a2 l1 
+
+Player 3
+Carrier Location: k3 l3 m3 n3 o3 
+Battleship Location: k8 l8 m8 n8 
+Submarine Location: d4 d5 d6 
+Destroyer Location: d11 e11 f11 
+Patrol Boat Location: g6 h6 
+Bomb Locations: j6 j14 n14 
+
+Player 4
+Carrier Location: i2 i3 i4 i5 i6 
+Battleship Location: b5 b4 b3 b2 
+Submarine Location: j1 k1 l1 
+Destroyer Location: m4 n4 o4 
+Patrol Boat Location: c6 b6 
+Bomb Locations: d6 d13 d5 
+
+Player 1
+Carrier Location: e13 e12 e11 e10 e9 
+Battleship Location: l2 k2 j2 i2 
+Submarine Location: j10 j11 j12 
+Destroyer Location: o11 n11 m11 
+Patrol Boat Location: b13 c13 
+Bomb Locations: a4 m3 g4 
+
+Player 2
+Carrier Location: l1 l2 l3 l4 l5 
+Battleship Location: g2 g3 g4 g5 
+Submarine Location: e7 f7 g7 
+Destroyer Location: c2 c3 c4 
+Patrol Boat Location: e1 e2 
+Bomb Locations: j2 a6 c9 
+
+Player 3
+Carrier Location: c4 c5 c6 c7 c8 
+Battleship Location: g12 g11 g10 g9 
+Submarine Location: a1 b1 c1 
+Destroyer Location: k11 k12 k13 
+Patrol Boat Location: l11 l12 
+Bomb Locations: g5 f3 f12 
+
+Player 4
+Carrier Location: k2 k3 k4 k5 k6 
+Battleship Location: m4 m3 m2 m1 
+Submarine Location: h6 i6 j6 
+Destroyer Location: d9 c9 b9 
+Patrol Boat Location: i8 j8 
+Bomb Locations: d1 h7 i9 
+
+Player 5
+Carrier Location: g8 g7 g6 g5 g4 
+Battleship Location: d10 d9 d8 d7 
+Submarine Location: f15 f14 f13 
+Destroyer Location: j10 k10 l10 
+Patrol Boat Location: j15 k15 
+Bomb Locations: g9 o10 m15 
+
