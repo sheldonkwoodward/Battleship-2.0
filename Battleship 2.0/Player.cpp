@@ -1369,6 +1369,8 @@ string Player::broadcastGuess()
 
 void Player::computerGuess(string &placeCoord, int &x, int &y)
 {
+	//Test modification
+
 	do {
 		x = rand() % 15 + 1;
 		y = rand() % 15 + 1;
